@@ -298,24 +298,6 @@ Now that I've completed Lab 01, I'm ready to:
 
 ---
 
-## Personal Notes
-
-**What went well:**
-- [Add your reflections on what was easy or intuitive]
-- [Example: "Creating users was straightforward, portal UI is very clear"]
-
-**What was challenging:**
-- [Add what you struggled with]
-- [Example: "Understanding the difference between Security and Microsoft 365 groups"]
-
-**Time taken:**
-- **Estimated:** 30 minutes
-- **Actual:** [Your actual time]
-
-**Would I do differently next time:**
-- [Add lessons learned]
-- [Example: "Take screenshots as I go instead of at the end"]
-
 ---
 
 ## Certification Alignment
