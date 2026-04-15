@@ -62,7 +62,7 @@ The organization is building a new lab environment for pre-production testing. E
 - [Add your specific experiences]
 
 **Screenshots Taken:**
-- ✅ `01_entra_id_overview.png` — Entra ID Overview page with tenant information
+- ✅ Labs/Lab01/screenshots/01_EntraID_overview_initial.png — | Entra ID Overview page with tenant information |
 - ✅ `02_user1_created.png` — Users list showing az104-user1
 - ✅ `03_both_users_created.png` — Users list showing both internal and guest users
 
